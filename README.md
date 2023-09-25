@@ -4,7 +4,7 @@ First, we start by cloning the local repositories
 
 to clone this repo in your terminal we put
 
-git clone https://github.com/AdrianG0954/cse-2102.git
+git clone (https://github.com/JonathanJJ4/CSE_2102/tree/main/j2023_09_21/my-app)
 
 
 after cloning we changed our current directory to the lab 
