@@ -1,24 +1,11 @@
-cse-2102
-Labs:
-First, we start by cloning the local repositories 
+CSE - 2102
+Lab 1:
+To clone this repo into your terminal we use:
+```git clone https://github.com/JonathanJJ4/CSE_2102/tree/main/j2023_09_21/my-app```
 
-to clone this repo in your terminal we put
+After this we switch to the directory by first locating where the files are stored and then as an example we do this:
+```cd folder/lab_number```
 
-git clone (https://github.com/JonathanJJ4/CSE_2102/tree/main/j2023_09_21/my-app)
-
-
-after cloning we changed our current directory to the lab 
-
-for example:
-
-cd Cse2102/Lab0
-
-
-after making sure we are in the right directory we compile and run the java code like so
-
-compile: 
-javac TestMe.java
-
-
-run: 
-java TestMe
+After making sure we are in the right location, we compile and run 
+javac ExampleFileName.java
+java ExampleFileName.java
